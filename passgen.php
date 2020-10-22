@@ -3,25 +3,29 @@
 
 function generate($qtd){
 
-$smallLetters = str_shuffle('abcdefghijklmnopqrstuvwxyz');
- 
-//Letras maiúsculas embaralhadas
-$capitalLetters = str_shuffle('ABCDEFGHIJKLMNOPQRSTUVWXYZ');
+$letrasminusculas = str_shuffle('
+abcdefghijklmnopqrstuvwxyz'
+); 
 
-//Números aleatórios
-$numbers = (((date('Ymd') / 12) * 24) + mt_rand(800, 9999));
-$numbers .= 1234567890;
+$letrasmaiusculas = str_shuffle('
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+');
 
-//Caracteres Especiais
+$numeros = (
+    (
+        (date('Ymd') / 12) * 24) + mt_rand(800, 9999)
+);
+
+$numeros .= 1234567890;
+
 $specialCharacters = str_shuffle('!@#$%*-');
 
-//Junta tudo
-$characters = $capitalLetters.$smallLetters.$numbers.$specialCharacters;
+$characters = $letrasmaiusculas.$letrasminusculas.$numeros.$specialCharacters;
 
-//Embaralha e pega apenas a quantidade de caracteres informada no parâmetro
-$password = substr(str_shuffle($characters), 0, $qtd);
+$senhaGerada = substr(str_shuffle($characters), 0, $qtd);
 
-return $password;
+return $senhaGerada;
+
 }
 
 
