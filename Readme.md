@@ -14,7 +14,7 @@
 ### 🏠 [My Website](https://dinicleyalves.com.br/)
 
 ### ✨ [Demo]
-[]! (img/cadeado.png)
+[] (img/cadeado.png)
 ## Author
 
 👤 **Dinicley Alves**
