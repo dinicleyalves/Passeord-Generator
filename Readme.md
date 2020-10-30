@@ -1,31 +1,41 @@
-# Gerador de Senhas
+<h1 align="center"> Password Generator 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/dinicleyalves" target="_blank">
+    <img alt="Twitter: dinicleyalves" src="https://img.shields.io/twitter/follow/dinicleyalves.svg?style=social" />
+  </a>
+</p>
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](#)
+> https://dinicleyalves.com.br
+
+### 🏠 [My Website](https://dinicleyalves.com.br/)
+
+### ✨ [Demo]
+[]! (image/image.png)
+## Author
+
+👤 **Dinicley Alves**
+
+* 🚀  GitHub:[@dinicleyalves] (https://github.com/dinicleyalves)
+* 🚀  Twitter:[@dinicleyalves] (https://twitter.com/dinicleyalves) 
+* 🚀  Instagram:[@dinicleyalves] (https://www.instagram.com/dinicleyalves) 
+* 🚀  Facebook: [@dinicleyalves] (https://www.facebook.com/page.dinicleyalves) 
+* 🚀  Dev: [@dinicleyalves] (https://dev.to/dinicleyalves) 
+* 🚀  StackOverflow:[@dinicleyalves] (https://stackoverflow.com/users/14184186/dinicley-alves) 
+* 🚀  Linkedin:[@dinicleyalves] (https://www.linkedin.com/in/dinicleyalves) 
+* 🚀  Telegram:[@dinicleyalves] (https://t.me/dicas_dinicleyalves) 
+* 🚀  Medium:[@dinicleyalves] (https://medium.com/@dinicleyalves) 
+* 🚀  Pinterest:[@dinicleyalves] (https://br.pinterest.com/dinicleyalves) 
 
 
-![](image.PNG)
 
-Neste repositório, trago o código fonte de um gerador de senhas. O objetivo deste repositório é ajudar a comunidade a se desenvolver , além de manter afiada minhas habilidades desenvolvendo usando a linguagem PHP.
+## Show your support
 
-# Ferramentas presentes na versão atual:
+Give a ⭐️ if this project helped you!
 
-  - Gerando senhas com tamanho dinâmico.
-  - Gerando senhas com letras maiusculas.
-  - Gerando senhas com numeros.
-  - Gerando senhas com simbolos.
-  
-# Ideias para possiveis atualizações:
+***
+_Thank you for existing, and making the world of technology more fantastic every day._
 
-- Nenhuma ideia.
-
-
-### Como instalar
-
-Para usar estes arquivos, crie uma conta em um site de hospedagem como o 000webhost ou baixe um servidor em seu computador, como por exemplo o WampServer com suporte para PHP e arraste os arquivos para dentro e se divirta.
-
-### Observação
-
-Como o objetivo deste repositório é treinar minhas habilidades com php, não codifiquei o front-end do zero.
-Link do código inicial:
-
-https://bootsnipp.com/snippets/Q0k96

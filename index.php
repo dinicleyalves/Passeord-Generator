@@ -1,6 +1,6 @@
 <?php
 
-include_once("./passgen.php");
+include_once("./passGenerator.php");
 
 $senha = 'Undefined';
 
@@ -18,22 +18,14 @@ $senha = $gerando;
       <div class="container">
           <div class="row">
               <div class="col-md-12 wow animated fadeInLeft mt-4" data-wow-delay=".2s">
-                  <h1 class="section-title mt-4">Zenitsu Pass Generator</h1>
+                  <h1 class="section-title mt-4"> Password Generator</h1>
               </div>
           </div>
           <div class="row mt-4">
               <div class="col-md-6 mt-3 contact-widget-section2 wow animated fadeInLeft" data-wow-delay=".2s">
-                <p>Para gerar a senha é bem simples, insira uma quantidade de caracteres e clique em gerar senha!</p>
+                <p>Para gerar uma senha insira uma quantidade de caracteres e clique em gerar senha!</p>
 
-                <div class="find-widget">
-                 Repositório GitHub do projeto:  <a href="https://github.com/GustavoOliveiraRosa/passwordgenerator">https://github.com/GustavoOliveiraRosa/passwordgenerator</a>
-                </div>
 
-                <div class="find-widget">
-                 Perfil GitHub:  <a href="https://github.com/GustavoOliveiraRosa">https://github.com/GustavoOliveiraRosa</a>
-                </div>
-    
-    
               </div>
               <div class="col-md-6 wow animated fadeInRight" data-wow-delay=".2s">
                   <form class="shake" role="form" method="post" id="contactForm" name="contact-form" data-toggle="validator">
@@ -54,9 +46,6 @@ $senha = $gerando;
                           <div id="msgSubmit" class="h3 text-center hidden"></div>
                           <div class="clearfix"></div>
                       </div>
-
-                  
-
                   </form>
               </div>
           </div>
