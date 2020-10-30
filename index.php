@@ -28,7 +28,6 @@ $senha = $gerando;
               <div class="col-md-6 mt-3 contact-widget-section2 wow animated fadeInLeft" data-wow-delay=".2s">
                 <p>Para gerar uma senha insira uma quantidade de caracteres e clique em gerar senha!</p>
 
-
               </div>
               <div class="col-md-6 wow animated fadeInRight" data-wow-delay=".2s">
                   <form class="shake" role="form" method="post" id="contactForm" name="contact-form" data-toggle="validator">

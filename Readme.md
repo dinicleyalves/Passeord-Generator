@@ -38,4 +38,3 @@ Give a ⭐️ if this project helped you!
 
 ***
 _Thank you for existing, and making the world of technology more fantastic every day._
-
