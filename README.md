@@ -1,2 +1,2 @@
-# Passeord-Generator
+# Password-Generator
 Password Generator with PHP
