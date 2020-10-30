@@ -21,9 +21,11 @@ $senha = $gerando;
                   <h1 class="section-title mt-4"> Password Generator</h1>
               </div>
           </div>
+          <div class="row mt-4"> 
+            <p><img src="img/cadeado.png" alt="cadeado" height="50px"></p>
+          </div>
           <div class="row mt-4">
               <div class="col-md-6 mt-3 contact-widget-section2 wow animated fadeInLeft" data-wow-delay=".2s">
-                <p><img src="img/cadeado.png" alt=""></p>
                 <p>Para gerar uma senha insira uma quantidade de caracteres e clique em gerar senha!</p>
 
 

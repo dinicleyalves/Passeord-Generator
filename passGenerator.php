@@ -1,6 +1,5 @@
 <?php
 
-
 function generate($qtd){
 
 $letrasminusculas = str_shuffle('
